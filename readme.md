@@ -2,7 +2,7 @@
 
 ![Badge](😊)
 
-# [Link of live project](https://sdekrishna.netlify.app/)
+# [Link of live project](https://sdeansar.netlify.app/)
 
 ![KR]()
 
